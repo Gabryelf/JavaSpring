@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Eml1Sem1SpringCore/Eml1Sem1SpringCore.iml" filepath="$PROJECT_DIR$/Eml1Sem1SpringCore/Eml1Sem1SpringCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exml2Sem2SpringCore/Exml2Sem2SpringCore.iml" filepath="$PROJECT_DIR$/Exml2Sem2SpringCore/Exml2Sem2SpringCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exml3Sem2SpringCore/Exml3Sem2SpringCore.iml" filepath="$PROJECT_DIR$/Exml3Sem2SpringCore/Exml3Sem2SpringCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Seminar2.iml" filepath="$PROJECT_DIR$/.idea/Seminar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/empl4sem2CRUD/empl4sem2CRUD.iml" filepath="$PROJECT_DIR$/empl4sem2CRUD/empl4sem2CRUD.iml" />
+    </modules>
+  </component>
+</project>
