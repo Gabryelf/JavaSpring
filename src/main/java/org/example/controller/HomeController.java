@@ -15,6 +15,11 @@ public class HomeController {
     public String privateData() {
         return "private-data";
     }
+
+    @GetMapping("/login")
+    public String authPage() {
+        return "login";
+    }
 }
 
 
